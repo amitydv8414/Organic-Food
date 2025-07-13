@@ -1,0 +1,245 @@
+*
+{
+    width: 0 auto;
+    padding: 0;
+}
+.img
+{
+    width: 100%;
+    background-image:url('https://themewagon.github.io/foody2/img/carousel-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin-top: 8vh;
+}
+
+h1{
+    font-size: 3.5rem;
+    margin-bottom: 30px;
+    margin-right: 456px;
+    color: black;
+}
+.fb
+{
+    text-align: center;
+    border-radius: 30px;
+    background-color: green;
+    color: white;
+    border-color: green;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 150px;
+   
+}
+.sb
+{
+    text-align: center;
+    border-radius: 30px;
+    background-color: orange;
+    color: white;
+    border-color: orange;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 480px;
+
+   
+ }
+ .best
+ {
+    display: flex;
+ }
+.img1
+{
+    display: flex;
+    width: 600px;
+    padding: 50px;
+}
+.heading
+{
+    text-align: center;
+}
+.para
+{
+    text-align: center;
+}
+h2{
+    padding: 50px;
+    text-align: center;
+    font-size: 50px;
+    text-align: left;
+}
+p
+{
+    font-size: larger;
+    text-align: justify;
+}
+button 
+{
+background-color: green;
+color: white;
+border-radius: 250px; 
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+/* button:hover
+{
+    background-color: rgb(56, 170, 41);
+} */
+
+.our{
+    display: flex;
+}
+.our img
+{
+    padding-left: 180px;
+    
+}
+.our p
+{
+    padding: 20px;
+    text-align: justify;
+}
+.our h4
+{
+    text-align: center;
+}
+.frt
+{
+    display: flex;
+}
+.frt img
+{
+    width: 350px;
+    height: 350px;
+    padding: 20px;
+}
+.frt h6
+{
+    text-align: center;
+}
+.frt p
+{
+    text-align: center;
+}
+h3
+{
+    padding-top: 100px;
+    font-weight: bolder;
+}
+.fresh
+{
+    display: flex;
+}
+.fresh img
+{
+    width: 350px;
+    height: 350px;
+    padding: 20px;
+}
+.fresh h6
+{
+    text-align: center;
+}
+.fresh p
+{
+    text-align: center;
+}
+.firm
+{
+    display: flex;
+    background-color: green;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.firm h3
+{
+    color: white;
+margin-top: -82px;
+margin-bottom: 100px;
+font-size: 100px;
+padding-left: 50px;
+}
+.firm button
+{
+    margin-top: 150px;
+    margin-left: 150px;
+    background-color: orange;
+}
+.firm p{
+    color: white;
+    padding-left: 50px;
+}
+.blog
+{
+    display: flex;
+}
+.lat
+{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 500px;
+}
+.para2
+{
+    text-align: center;
+}
+.blog img
+{
+    width: 400px;
+    padding-left: 30px;
+}
+.login
+{
+    display: flex;
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: black;
+}
+.head5 p
+{
+    color: white;
+}
+.head5 h3
+{
+    color: green
+}
+.adr
+{
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+}
+.limks
+{
+    padding-right: 50px;
+    text-align: center;
+    color: white;
+}
+.links a
+{
+    text-decoration: none;
+}
+.links h4
+{
+    color: white;
+}
+.head5
+{
+    color: white;
+}
+.new p
+{
+    color: white;
+}
+.new h4
+{
+    color: white;
+}
